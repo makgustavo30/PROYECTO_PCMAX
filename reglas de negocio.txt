@@ -1,0 +1,7 @@
+El empleado no podra editar la venta una vez guardada
+el empleado no podra eliminar una venta guardada
+el empleado solo podra acceder a ciertos modulos de la aplicacion
+el administrador podra visializar el total de modulos de la aplicacion
+el administrador podra editar o eliminar las ventas
+todas las ventas tienen garantia la cual varia de acuerdo al producto
+los productos tendran opcion de precio variable
