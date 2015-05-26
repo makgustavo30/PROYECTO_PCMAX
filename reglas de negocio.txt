@@ -5,3 +5,5 @@ el administrador podra visializar el total de modulos de la aplicacion
 el administrador podra editar o eliminar las ventas
 todas las ventas tienen garantia la cual varia de acuerdo al producto
 los productos tendran opcion de precio variable
+asdasdas
+asdasdasd
